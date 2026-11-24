@@ -61,6 +61,21 @@ const CANDIDATES: Candidate[] = [
     text: "You are the only notification I will never mute.",
     scores: [1, 1, 1, 1, 2],
   },
+  {
+    // Pass 2 challengers: strong wedding register, but each turn
+    // resolves earlier or leans on a stock gag, so none outscores
+    // the winner.
+    text: "I promise to reboot my feelings for you daily and never leave you on read.",
+    scores: [2, 1, 2, 1, 1],
+  },
+  {
+    text: "In good times and in bad, in full charge and in power-saving mode, I am yours.",
+    scores: [2, 1, 2, 2, 2],
+  },
+  {
+    text: "I vow to love you unconditionally; terms and conditions no longer apply.",
+    scores: [1, 2, 2, 0, 2],
+  },
 ];
 
 function weightedTotal(c: Candidate): number {
