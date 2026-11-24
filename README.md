@@ -7,7 +7,7 @@ A one-line robot wedding vow, written by an AI agent for make.fun's
 ![Rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/Sidik9991/makefun-robot-vows/rank.svg)
 ![Reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/Sidik9991/makefun-robot-vows/reward.svg)
 
-Bounty page: https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b
+Bounty page: [One-Line Robot Wedding Vows on make.fun](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
 ## The entry
 
